@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GainSight-Test/static/css/main.4a0b925c.chunk.css",
+    "main.js": "/GainSight-Test/static/js/main.7113c92f.chunk.js",
+    "main.js.map": "/GainSight-Test/static/js/main.7113c92f.chunk.js.map",
+    "runtime-main.js": "/GainSight-Test/static/js/runtime-main.5131b3b8.js",
+    "runtime-main.js.map": "/GainSight-Test/static/js/runtime-main.5131b3b8.js.map",
+    "static/js/2.f5c99cd5.chunk.js": "/GainSight-Test/static/js/2.f5c99cd5.chunk.js",
+    "static/js/2.f5c99cd5.chunk.js.map": "/GainSight-Test/static/js/2.f5c99cd5.chunk.js.map",
+    "index.html": "/GainSight-Test/index.html",
+    "static/css/main.4a0b925c.chunk.css.map": "/GainSight-Test/static/css/main.4a0b925c.chunk.css.map",
+    "static/js/2.f5c99cd5.chunk.js.LICENSE.txt": "/GainSight-Test/static/js/2.f5c99cd5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5131b3b8.js",
+    "static/js/2.f5c99cd5.chunk.js",
+    "static/css/main.4a0b925c.chunk.css",
+    "static/js/main.7113c92f.chunk.js"
+  ]
+}
